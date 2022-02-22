@@ -1,3 +1,5 @@
+// DO NOT USE!!
+// This repo is still under development. Once chain goes live the genesis file will be updated.
 {
   "genesis_time": "2022-02-22T07:16:00.950165485Z",
   "chain_id": "cerberus-1",

@@ -2,6 +2,6 @@
 
 This is a development genesis file.
 
-### DO NOT use!!
+### DO NOT USE!!
 
 This repo is still under development. Once chain goes live the genesis file will be updated.
