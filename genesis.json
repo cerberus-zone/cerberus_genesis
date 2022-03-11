@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2022-03-12T05:00:00.376853187Z",
+  "genesis_time": "2022-03-11T05:00:00.376853187Z",
   "chain_id": "cerberus-1",
   "initial_height": "1",
   "consensus_params": {
@@ -192,7 +192,7 @@
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "cerberus1e0apsa7vx83apgn3nql0ajq6k8g08tr6xhj8ma",
+          "address": "cerberus13uz8x0rgm950639yklqq5tnjh6gwfpfhft5r7g",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -451,7 +451,7 @@
           ]
         },
         {
-          "address": "cerberus1e0apsa7vx83apgn3nql0ajq6k8g08tr6xhj8ma",
+          "address": "cerberus13uz8x0rgm950639yklqq5tnjh6gwfpfhft5r7g",
           "coins": [
             {
               "denom": "ucrbrus",
@@ -1722,19 +1722,16 @@
                   "max_change_rate": "0.050000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "cerberus1e0apsa7vx83apgn3nql0ajq6k8g08tr6xhj8ma",
-                "validator_address": "cerberusvaloper1e0apsa7vx83apgn3nql0ajq6k8g08tr6nxcqpr",
+                "delegator_address": "cerberus13uz8x0rgm950639yklqq5tnjh6gwfpfhft5r7g",
+                "validator_address": "cerberusvaloper13uz8x0rgm950639yklqq5tnjh6gwfpfhu67yyk",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "ER2VIy3emfVa81Br9s531vNv+HgUMWC+rC0U15BmVH4="
+                  "key": "Y7wmh1efhm5pVOnULb91xWuJE1wVsge98mBK3mjzXpY="
                 },
-                "value": {
-                  "denom": "ucrbrus",
-                  "amount": "4000000000000"
-                }
+                "value": { "denom": "ucrbrus", "amount": "4000000000000" }
               }
             ],
-            "memo": "d8a04beba9fb95c70368b303f701c36b4e3b4a63@185.215.165.29:26656",
+            "memo": "c2a307e37c94573a59c691b61408bdd71ec49a0f@65.108.121.239:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -1744,25 +1741,16 @@
               {
                 "public_key": {
                   "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "Aho0HuAeqgVnBhWYH8mqN+IH9RrMZp1cIyVzQ8jj4Zo9"
+                  "key": "AwsPG1Eu4nLjLgf1cYMOjeSolrsEqi1fn56rTnOgipSi"
                 },
-                "mode_info": {
-                  "single": {
-                    "mode": "SIGN_MODE_DIRECT"
-                  }
-                },
+                "mode_info": { "single": { "mode": "SIGN_MODE_DIRECT" } },
                 "sequence": "0"
               }
             ],
-            "fee": {
-              "amount": [],
-              "gas_limit": "200000",
-              "payer": "",
-              "granter": ""
-            }
+            "fee": { "amount": [], "gas_limit": "200000", "payer": "", "granter": "" }
           },
           "signatures": [
-            "6tINste+rvC1CUpIIx9lIYFJ/AmsnCX/Si4o0M4vygVq//KcBOmCBPglMLhmlfJmHrxVKc4XDtljrTwuM/5QYA=="
+            "kPV/7UOplMc7yRWdmOozUrnogzyz/zXc+22VqaRpWHYPaX9jaUocAfD9yx85aU9y5/4AJ3VuOC/oK/RJzPYWtg=="
           ]
         },
         {
