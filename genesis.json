@@ -1,11 +1,11 @@
 {
-  "genesis_time": "2022-03-11T07:12:10.398064259Z",
+  "genesis_time": "2022-03-12T05:00:00.376853187Z",
   "chain_id": "cerberus-1",
   "initial_height": "1",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
-      "max_gas": "-1",
+      "max_gas": "600000000",
       "time_iota_ms": "1000"
     },
     "evidence": {
@@ -28,7 +28,212 @@
         "sig_verify_cost_ed25519": "590",
         "sig_verify_cost_secp256k1": "1000"
       },
-      "accounts": []
+      "accounts": [
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus140l6y2gp3gxvay6qtn70re7z2s0gn57zs7ndn2",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1zh4l7hffy5hnfm9s0n7549h26hdk36yqsytqyh",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1zmqq37naz8vch9ze4s7c58wa8l5pugqyj7y3ua",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1f2zl92n3mjxceev3hjekj7qx93x3ks3e78u93f",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1d82r02sfjevhltwwgpl8dysayjfd7094rtv4rq",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1dyngxwdkh3q0g4679ajnunvs3kmeqdk94299rt",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1uk4wdn5k5rcxerhuqssczun6erdz94vg5u9hnm",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1lxz6ucd5qydhpwtpatn9wu83fc002v087guacf",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1uvl2g9nd8qttjjyxjs30x7fj878d3wt426l4x7",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1krc59rqye9ptzurkyuccu6ykse895m9cfwv956",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus16kctxuen3x2avvjj2mdwsl6g8n7d4vjkvl4q8s",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1dh25k2zuf0tgz8dsp3v0utw0xch2ljxuywehz4",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1y3thykrje2fmdcf8wva8l8kphmwpx89ukyny60",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus13jawsn574rf3f0u5rhu7e8n6sayx5gkwwtq2rg",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1eckdsantax0n29y7lc7ctjyzrxsfkk5hh3a7e4",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1r34mlqewsxrde38vp3tzwh3rk5vt6ez09wgmkz",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1d62kadeszhevmlnj07c9frhrgyhshlhr03enlq",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1u36xktpyrp6cw99a2e3up4jntn0e0zdm6fzxpk",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus189j8agk24gra4z8n9vj30yzqxkkwa265latsr0",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1kdqjzvznnufaykuwpu2glu9g33jshw8wlnvx2a",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1js6gk7q0vw2q8t2frsqcjl3s5tvlguqk9z2jrs",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus10ypajp3q5zu5yxfud3ayd95th0k7467kyp7tdq",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1tat2cy3f9djtq9z7ly262sqngcarvaktk7yeah",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1gp957czryfgyvxwn3tfnyy2f0t9g2p4pe2d8ll",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1n59eekggghkrgh5m80m5cqjzv7muz5d3k58ewg",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1l6kfy4xvy0a34fseyhvc6f6k8asukfdzjysdpk",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1xwazl8ftks4gn00y5x3c47auquc62ssuevxnnm",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus1td92z5qwl39f407gxf6lu2x80enat7t38cnwfh",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "cerberus13uz8x0rgm950639yklqq5tnjh6gwfpfhft5r7g",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        }
+      ]
     },
     "authz": {
       "authorization": []
@@ -38,7 +243,269 @@
         "send_enabled": [],
         "default_send_enabled": true
       },
-      "balances": [],
+      "balances": [
+        {
+          "address": "cerberus1zh4l7hffy5hnfm9s0n7549h26hdk36yqsytqyh",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "16885000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1zmqq37naz8vch9ze4s7c58wa8l5pugqyj7y3ua",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "11000000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1f2zl92n3mjxceev3hjekj7qx93x3ks3e78u93f",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "27000000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1dyngxwdkh3q0g4679ajnunvs3kmeqdk94299rt",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "20000000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1d82r02sfjevhltwwgpl8dysayjfd7094rtv4rq",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "20000000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1uk4wdn5k5rcxerhuqssczun6erdz94vg5u9hnm",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "2000000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1lxz6ucd5qydhpwtpatn9wu83fc002v087guacf",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1uvl2g9nd8qttjjyxjs30x7fj878d3wt426l4x7",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1krc59rqye9ptzurkyuccu6ykse895m9cfwv956",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus140l6y2gp3gxvay6qtn70re7z2s0gn57zs7ndn2",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus16kctxuen3x2avvjj2mdwsl6g8n7d4vjkvl4q8s",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1dh25k2zuf0tgz8dsp3v0utw0xch2ljxuywehz4",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1y3thykrje2fmdcf8wva8l8kphmwpx89ukyny60",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus13jawsn574rf3f0u5rhu7e8n6sayx5gkwwtq2rg",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1eckdsantax0n29y7lc7ctjyzrxsfkk5hh3a7e4",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1r34mlqewsxrde38vp3tzwh3rk5vt6ez09wgmkz",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1d62kadeszhevmlnj07c9frhrgyhshlhr03enlq",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1u36xktpyrp6cw99a2e3up4jntn0e0zdm6fzxpk",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus189j8agk24gra4z8n9vj30yzqxkkwa265latsr0",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1kdqjzvznnufaykuwpu2glu9g33jshw8wlnvx2a",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1js6gk7q0vw2q8t2frsqcjl3s5tvlguqk9z2jrs",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus10ypajp3q5zu5yxfud3ayd95th0k7467kyp7tdq",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1tat2cy3f9djtq9z7ly262sqngcarvaktk7yeah",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1gp957czryfgyvxwn3tfnyy2f0t9g2p4pe2d8ll",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1n59eekggghkrgh5m80m5cqjzv7muz5d3k58ewg",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1l6kfy4xvy0a34fseyhvc6f6k8asukfdzjysdpk",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1xwazl8ftks4gn00y5x3c47auquc62ssuevxnnm",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus1td92z5qwl39f407gxf6lu2x80enat7t38cnwfh",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "cerberus13uz8x0rgm950639yklqq5tnjh6gwfpfhft5r7g",
+          "coins": [
+            {
+              "denom": "ucrbrus",
+              "amount": "5000000000000"
+            }
+          ]
+        }
+      ],
       "supply": [],
       "denom_metadata": []
     },
@@ -48,7 +515,7 @@
     },
     "crisis": {
       "constant_fee": {
-        "denom": "stake",
+        "denom": "ucrbrus",
         "amount": "1000"
       }
     },
@@ -78,7 +545,1461 @@
       "allowances": []
     },
     "genutil": {
-      "gen_txs": []
+      "gen_txs": [
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Cros-nest",
+                  "identity": "5F1D6AC7EA588676",
+                  "website": "https://www.cros-nest.com",
+                  "security_contact": "chainmaster@cros-nest.com",
+                  "details": "We operate state-of-the-art distributed and redundant validator and IBC relayer infrastructure for Proof of Stake blockchains."
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.150000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1y3thykrje2fmdcf8wva8l8kphmwpx89ukyny60",
+                "validator_address": "cerberusvaloper1y3thykrje2fmdcf8wva8l8kphmwpx89ur4erq3",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "oeMOW/bRGACkDJkjcP6P1Xr8yaX2lKZFC34p48wpqls="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "5000000000000"
+                }
+              }
+            ],
+            "memo": "131b6a6abe198d959532d3b59495ee6111f9f3f7@192.168.2.117:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "Am2Z3oJPWDOfYqRlftnUxmmxj0RIH4K1/qWt3a5xypN/"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "EANVCjHpzDLOg6wWUu6ZH5vuM9vhbiY3h4SqbGX56TE/BddFfdmk0CvQ/YerfdoYdTec+Th2DJ73i3w/aR5dsA=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "POSTHUMAN ꝏ DVS",
+                  "identity": "8A9FC930E1A980D6",
+                  "website": "https://posthuman.digital",
+                  "security_contact": "validator@posthuman.digital",
+                  "details": "100% refund in case of slashing ⚛️ MEꝏWE 🤲 Part of the profits goes to charity"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1td92z5qwl39f407gxf6lu2x80enat7t38cnwfh",
+                "validator_address": "cerberusvaloper1td92z5qwl39f407gxf6lu2x80enat7t3jfefnf",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "oCirNhupr5wNKhBSHZw2idNVDuyyK0RnWxj5BbuogaA="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "17e1441d760583ab5cf79a93ea01ced685948bf7@168.119.110.93:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AzEqRh55X/GZOq+rYBZ50QhbThxZulK0/sXbhH3xk9Hl"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "DmCzNr60JU7sfoFJSSF3e3hFqD4MZsuVwgJttdebMvEpmnWNXtim3nqPNm7Rqstz82XZL+vDD8TjO+MPNIqoUw=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "✅ CryptoCrew Validators #IBCgang",
+                  "identity": "9AE70F9E3EDA8956",
+                  "website": "https://ccvalidators.com",
+                  "security_contact": "support@ccvalidators.com",
+                  "details": "CryptoCrew validator \u0026 multi-chain IBC-relayer service for CERBERUS. Based in Europe. t.me/cryptocrew_validators"
+                },
+                "commission": {
+                  "rate": "0.069000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1lxz6ucd5qydhpwtpatn9wu83fc002v087guacf",
+                "validator_address": "cerberusvaloper1lxz6ucd5qydhpwtpatn9wu83fc002v08tek6zh",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "5Sw3rNJJVVTUhfrOazhRqwI0Mi1lrIc/G5c883h+j1Q="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "1f5032f3c2d754876d064e907870db51866d43b4@157.90.176.153:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A1EOzQI91JZs3rA98psPPQgElc1L0PF8LXyrhHiETrGb"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "EKsZCUWvd5CQGCTwl81JC1WbJXpXxXqrjwncS4+dXdcpte/jCfpDVWE8+XRbJTPkxzbA+9OBMpMeqjinqC+s7w=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "atmon3r",
+                  "identity": "",
+                  "website": "https://www.bitcanna.io/",
+                  "security_contact": "contact.atmoner@gmail.com",
+                  "details": "Crazy dev!"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus13jawsn574rf3f0u5rhu7e8n6sayx5gkwwtq2rg",
+                "validator_address": "cerberusvaloper13jawsn574rf3f0u5rhu7e8n6sayx5gkwm62dek",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "BcfEgojC9bxupfSvHnrv3b6rWAI6BSgFpPWjkUFqPpU="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "358fb3c007a9788764beacf07c9454e3f4f9f8a0@75.119.148.180:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AuUj8347T9ASE/waYjZoyWdovTNt4uKRaXPLupyh9eqU"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "I6UM07CzNSRXuycZNiX3xueJpSuuqOyBn+PCm8Z8rPJqbYsFqkE8EmPiINVCrTLwlrd6HYCil3yZklCVwlDRqw=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Enigma",
+                  "identity": "6223697ACA24A4FF",
+                  "website": "https://enigma-validator.com/",
+                  "security_contact": "enigma.validator@gmail.com",
+                  "details": "Proof of Stake Validator on different projects -- Passionate about Data Science and Technology"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1eckdsantax0n29y7lc7ctjyzrxsfkk5hh3a7e4",
+                "validator_address": "cerberusvaloper1eckdsantax0n29y7lc7ctjyzrxsfkk5hzqhert",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "zttYt7kH37T7kCU2xk2I8tLYncwpkReCA6xLqM9yadw="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "402d0fd8e6ca7884a7acfef6e1ab417791715694@194.163.175.85:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AtB0cvrxneAvszVi6ZjuxCxwwN+1kD6fUj2cd9/7khiT"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "QksLIeZqsQdnQcGU/0x79iCCE0orGVABak4oYU7WjyR2SUV0Fs1WktJw2K9xBpW3vRRhZ63CUhEwf1shR677eQ=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Astra.Voyage",
+                  "identity": "A3431CED2751636A",
+                  "website": "https://www.astra.voyage",
+                  "security_contact": "admin@astra.voyage",
+                  "details": "Take a Cosmos Voyage"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1uvl2g9nd8qttjjyxjs30x7fj878d3wt426l4x7",
+                "validator_address": "cerberusvaloper1uvl2g9nd8qttjjyxjs30x7fj878d3wt4lt4juq",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "Dr9nDVUMJMc1XcZnUpviuBHj9mZrfKOvlYlvKP9XzjM="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "4aa105e2e0d358edfa7d44e3bbacf4ecb5ba024e@194.163.169.187:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A2apPV//cdESimxC9dICVX5Xv96CdHNe3IFsd0yjdAoO"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "HXZ5ZyObFO57MQfHyjDd82tkAIQObsT1m1VFvci8EV0hXUaATboZkmyPBq1b7PMD8ZjtMgC+6Evq108rIsQ4Hg=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "RHINO",
+                  "identity": "59C635D1CD02FEEC",
+                  "website": "https://rhinostake.com",
+                  "security_contact": "support@rhinostake.com",
+                  "details": "RHINO is an active Cerberus community member! Redundant and secure bare-metal validators. We provide 100% soft slash protection. Find us on JUNO, STARS, HUAHUA, FLIX, NOM and more! https://t.me/rhinostake 🇺🇸 🇮🇹 🇸🇪"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1krc59rqye9ptzurkyuccu6ykse895m9cfwv956",
+                "validator_address": "cerberusvaloper1krc59rqye9ptzurkyuccu6ykse895m9culxzwy",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "L33FS34NVVGGgTzQ4IWDPYOtKQ5ZlZ71I/tvRUGbDuk="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "4af2ce6477ab0b5dd46ae54ff37d883ab94635c9@10.254.106.19:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AjxnCcmk5VgbRp26BPHv9gDYc4apnw84gwe/ovx9oIBB"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "UgXmIwcr2R4+EOB+4sazthK34j3m6vWppRdHAUhrqbVxr8dG96D3JbwpHD0wQr3ooT2fwOLxlUczpDDTP0Rr0A=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Badger Bite",
+                  "identity": "DE08041434EBB322",
+                  "website": "https://badgerbite.info",
+                  "security_contact": "iprouteth0@gmail.com",
+                  "details": "Badger Bite Validators Union"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus16kctxuen3x2avvjj2mdwsl6g8n7d4vjkvl4q8s",
+                "validator_address": "cerberusvaloper16kctxuen3x2avvjj2mdwsl6g8n7d4vjkewl8aw",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "phogGm4RBnQR0wV6OxAmYRMHJmAE7kuJgBwCI3N0FlU="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "4b1524679daa64954546ac3e6d376faf6a41e4d7@10.142.0.6:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AubaWxqzvq+Stimu58PX3VslYSBGbYW6iBly3ycDV6XU"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "vE3e3QlEJ7/LwkHmSqYT0OOBzxgcLdI11lPWvFNQ+FxY9DhdoIr5udcYRpwABStNd5XxfSl6npA6T2uVf1iqEQ=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "SmartNodes",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1dh25k2zuf0tgz8dsp3v0utw0xch2ljxuywehz4",
+                "validator_address": "cerberusvaloper1dh25k2zuf0tgz8dsp3v0utw0xch2ljxu3lnsct",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "wLdNvpK3Vsxx0KDz+Cb7c1nMKTVGys7sBCwwHSx+l0c="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "4f03e584bea0f2aeee12e20b6d9296485df19c62@85.10.216.147:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AyuIGlCXoKWxtkh+F0eCBHCY3NRUqyP0s9BfOfilofNg"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "+asjJjKTq1XsDQwX2ze/wV87fjyuZ+4mjxWU3Er5qa5dsuyj4V6HI3wxi2NljCf/ejPIqZ2f8uuYYsyssu4Zww=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "SkyNet | Validators",
+                  "identity": "1510797E867F484E",
+                  "website": "https://www.skynetvalidators.com",
+                  "security_contact": "skynet@skynetvalidators.com",
+                  "details": "We are a multi-blockchain validator supporting the Cosmos HUB as an enterprise class validator, Gravity Bridge and IBC relayer, and block explorer provider (https://www.skynetexplorers.com)."
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1r34mlqewsxrde38vp3tzwh3rk5vt6ez09wgmkz",
+                "validator_address": "cerberusvaloper1r34mlqewsxrde38vp3tzwh3rk5vt6ez0slzuvu",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "II9xPvsz6tI3L3YNdimIRDQZgd0m9DRIjt70kT0OWZ0="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "9923e45bf086edea62dc5bd95e524770190de04e@89.58.37.22:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "Awt8psyiwgDeQuWQJ1JdHybRXUIMCq9i5kcDwVnzQSSp"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "FcdGCtrQD1yhhxo30ilKUs5XZU7gnoMdCirZ34dXH8seibaDcLiXIC4qFxL8svyT9KTsnlg5HAcQK7mJTcc/Bg=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "WhisperNode 🤐",
+                  "identity": "9C7571030BEF5157",
+                  "website": "https://WhisperNode.com",
+                  "security_contact": "hello@whispernode.com",
+                  "details": "WhisperNode operates robust, high up-time validators across multiple Cosmos-based blockchains. We are highly active participants in the communities we validate for as we believe this is a necessity for effective on-chain governance and staying up to date on all network issues."
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1d62kadeszhevmlnj07c9frhrgyhshlhr03enlq",
+                "validator_address": "cerberusvaloper1d62kadeszhevmlnj07c9frhrgyhshlhr6qn597",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "T4WIwoTrR7W9Fq9f2El0jD/xb9cp9Dckm6uZjdd2VWU="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "a64a62d7c4ca146560d86da353d924ee1d91a441@65.21.235.249:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AwiKpsfG7bwBMzmJ4i0dHaAf53ZEj4ns16gfpdqON3hp"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "KUzTvcljXjWb/44gC7aPRvN5+DJ5zkoyRtWKoRnrpLwt/cFsgDeXjKakOFc0+xPZOjTqH7vUf/YVQoKkcmwpng=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": " Ŀavender.Five Nodes 🐝",
+                  "identity": "F87ADDB700C0CC94",
+                  "website": "http://www.lavenderfive.com/",
+                  "security_contact": "hello@lavenderfive.com",
+                  "details": "Lavender.Five Nodes is committed to providing world class validator services to make your life easy, including 100% soft slash protection. \nCome say Hi! https://twitter.com/lavender_five"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.100000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus140l6y2gp3gxvay6qtn70re7z2s0gn57zs7ndn2",
+                "validator_address": "cerberusvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z90e2f5",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "z1OKixvVvMAB8kjHCA6Vht+jAQKabeHTEwcWLaK/Xcg="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "a90ffdff6b4f6d8964f749b568355751cb0abc48@192.168.0.182:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AgAxffwFDTjrK5UoAmT9aVOuI7CGxe3T5Wsxx2kWWhJB"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_LEGACY_AMINO_JSON"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "5XR7SNYrfdlpoNZQ7f7aCQBVzNCcc9cawc2+/I2QBQZ9XzpNJgMQXbMeqbleEsbJ5rVtHvr9dmnAUmUAcBh/Qg=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Steady Crypto",
+                  "identity": "",
+                  "website": "https://steadycrypto.solutions/",
+                  "security_contact": "info@steadycrypto.solutions",
+                  "details": "Reliable and dependable. Focused on steady and consistent growth."
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1u36xktpyrp6cw99a2e3up4jntn0e0zdm6fzxpk",
+                "validator_address": "cerberusvaloper1u36xktpyrp6cw99a2e3up4jntn0e0zdm0cgpmg",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "ViUBLZ+EK6Awnjwj8sG7VM1XBbG0+Y1yp6DCmlbBKCk="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "aaa2eba32286074fb575a48e033ac2ba7f4c94e6@192.168.1.210:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A0+5KjldflQV8MUs696mHwK0W308DUAcSGVOiGDHS4Gw"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "pr2IQXrfO3YJsahu0wG5n9JhIZc9DMDovVN/Qs3zvJJiMjMHnW+Rj3659x+PDLJXBXpWWzKi/bmOKRibgCXV+w=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Cerberus Zone",
+                  "identity": "",
+                  "website": "cerberus.zone",
+                  "security_contact": "hadeshounds@cerberus.zone",
+                  "details": "Cerberus the first ever three-headed meme-coin in the Cosmos ecosystem"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1zh4l7hffy5hnfm9s0n7549h26hdk36yqsytqyh",
+                "validator_address": "cerberusvaloper1zh4l7hffy5hnfm9s0n7549h26hdk36yq94p87f",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "GasAUOlJZGVpJmg/N1pnkJTZ7J7gEpRsLwHG0ufPVSY="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "5000000000000"
+                }
+              }
+            ],
+            "memo": "b119eb32fa883bcec6d4d6241984447be35e38c1@172.31.9.174:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AnTNk0mvnL7sHHBZyYT/ylXeNmYYTpCPst9IgOJonBNE"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "A1Afh/9/PVb+wbU4r6zM2YA+SFtVOXr+4ZF8h136ORBtZq6KskYDF3oxbSh9kJLu6tRE+/iwVmONS+zssOo/5Q=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "artifact",
+                  "identity": "70C162B0473634FD",
+                  "website": "aratifact-staking.io",
+                  "security_contact": "",
+                  "details": "High performance validators and RPC clusters"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus189j8agk24gra4z8n9vj30yzqxkkwa265latsr0",
+                "validator_address": "cerberusvaloper189j8agk24gra4z8n9vj30yzqxkkwa2652vphe3",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "FVgpO1TzIF5nmskoNGC6jynKztaxb8vbSekqWucQQ+Y="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "5000000000000"
+                }
+              }
+            ],
+            "memo": "b58024e1edf88f627b45e17af40b14eed80248ef@208.76.223.231:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A/CsDQwYVw2x12c2N9BKr5LQWJvLSqQKZJJJ2aLMQEiz"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "efkdaqozRi+JG7XDe402axoL0UqXYZ9AJee5eIsGvVV4hMYaGZ8nRmcDGIpyoD04HPdaUdVFF0Jbc7oOcuoSaQ=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": " entropic.nodes",
+                  "identity": "54ECFAC52BBC7BBB",
+                  "website": "",
+                  "security_contact": "entropic@entropic.tech",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.100000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1kdqjzvznnufaykuwpu2glu9g33jshw8wlnvx2a",
+                "validator_address": "cerberusvaloper1kdqjzvznnufaykuwpu2glu9g33jshw8w2zxpsr",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "PxkieLqm4iE02y/a2WCzze6U1P5RbuqNxU769v4QU0c="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "ba449484cea309c0fd52394103c042db71b02fe8@10.211.55.3:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AxuMHsX/wEimkVdufgZv8yOc31F4U9A+3snnl+biSHWH"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_LEGACY_AMINO_JSON"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "f3rhBmnagA49saOVaaNuWz0LyLfCZ3UTzAgXIPoFEv9b3C1jCHMmQeMfCuEBCxsVOjmb9ULtxG6tZCMHq6LJdQ=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "[ block pane]",
+                  "identity": "D75509198CE782A6",
+                  "website": "https://blockpane.com",
+                  "security_contact": "security@blockpane.com",
+                  "details": "🔥 Fast, datacenter-hosted, bare-metal validators 🔥"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.100000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1js6gk7q0vw2q8t2frsqcjl3s5tvlguqk9z2jrs",
+                "validator_address": "cerberusvaloper1js6gk7q0vw2q8t2frsqcjl3s5tvlguqksnq4ew",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "XMKL9O2EgI8MSfAcANHXb98YjiBgDF+0mk7gMMX+30M="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "bec9a5f3bb1a3dabba48a3bb89a06ff7bfa65f35@10.10.10.10:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A71N1nyMg8ieZ8tKd1deet61bmt9DIKMaTTURLE6sF73"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "/Xlv/8/OV5uBtvAIs6P3smlY6R+/SSRWBtyAQhVR+TdvnzBN+fqXNnG27zHOEeT7b+U9EPjg+a/rkYIdHzxLsQ=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Chill Validation",
+                  "identity": "3820B9E30B3BD99E",
+                  "website": "www.chillvalidation.com",
+                  "security_contact": "",
+                  "details": "Chill Validation Services - We take care of the Validation so that you can Chill :)"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.100000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus10ypajp3q5zu5yxfud3ayd95th0k7467kyp7tdq",
+                "validator_address": "cerberusvaloper10ypajp3q5zu5yxfud3ayd95th0k7467k3s5vh7",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "/P6/tyBAwpIBSWMoaj507MqpEy9baebkNkd99sMSbrU="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "c2c45ff3323319d82b95d9401d0290be4699de8a@159.89.210.232:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "Am82TmWL32mwcAEaQD6D432R6k0u5QofJ+uKwfBBIkY0"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "eKzusCj27t7qjZdCpnZV762J1L6HhV1c1sJmVAOCEeMzYCaRJlbmWLcscZ9B4u7oeAGhhGqgjnXsdmt5uogUOw=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "ECO Stake 🌱",
+                  "identity": "5992A6D423A406D6",
+                  "website": "https://ecostake.com",
+                  "security_contact": "support@ecostake.com",
+                  "details": "ECO Stake is a new climate positive validator 🌱 Carbon neutral and 10% of profit is donated to causes chosen by delegators 🌍 Secure and reliable with 100% slash protection and a low commission rate 🛡"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.100000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1tat2cy3f9djtq9z7ly262sqngcarvaktk7yeah",
+                "validator_address": "cerberusvaloper1tat2cy3f9djtq9z7ly262sqngcarvaktr0w78f",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "WvzVhd66xCu2wXGUiTD/LKRaRYjH+Pf2CiXIzFQ5Smg="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "d7f578c4295c7cf05164a2f786601050bf2f2356@192.168.1.2:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A7Zx+riaUyiohD4zlTrqvBj03UMHnLNfh7C4pgNHf5Jp"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_LEGACY_AMINO_JSON"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "wAcRdndDwTL9ZxLW3xjZ/6kIyNMfmlN9HTwoFuw9llw7X6eKZ/u2vP43A2eP3Bsi/ZpiF13e7qxl1L6g1uxuNA=="
+          ]
+        },
+
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "polkachu.com",
+                  "identity": "0A6AF02D1557E5B4",
+                  "website": "https://polkachu.com",
+                  "security_contact": "hello@polkachu.com",
+                  "details": "Polkachu is the trusted staking service provider for blockchain projects. 100% refund for downtime slash. Contact us at hello@polkachu.com"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1gp957czryfgyvxwn3tfnyy2f0t9g2p4pe2d8ll",
+                "validator_address": "cerberusvaloper1gp957czryfgyvxwn3tfnyy2f0t9g2p4pvm8q9p",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "12olSoKo6dz9sgtkLoDdDTg07PIGcqAMes0/U3ZcvF8="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "e797a59da3c99d418c9272afe93845f8c655839a@66.94.127.8:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A4310LXDV0oWV7oMJMIpS0k5/SoCBy0tVbCHS9lLYhx1"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "mcEOEocqz50auSfDOBDeU5XbAXBWxZUe1vU2/IXEg9I7kM5Pf1sYhpFJNdmhxzxs3/rqDASMtgtB9CAlpzxOiA=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "☉ Mercury",
+                  "identity": "48CE867E6AB5ED72",
+                  "website": "https://mercury-nodes.net",
+                  "security_contact": "https://t.me/MercuryPlanetes",
+                  "details": "All planetary stake"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.100000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1n59eekggghkrgh5m80m5cqjzv7muz5d3k58ewg",
+                "validator_address": "cerberusvaloper1n59eekggghkrgh5m80m5cqjzv7muz5d3r9d75k",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "Qv59rM0LnU3QMLE04ClOYYy2D1wBPm6emTLqvzL09vg="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "f03e64d46713068da60b096d528053a57e0e5fec@157.90.36.33:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A4RY5SP76mvv27XcYPRD80J6k08qtt+xnoNiNmWuXd+o"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "1Vdh+OAve2sdKnHRf1/OE/LfoqlfIsPBIyQhZoNltuJT7Hve6gI+QF9LAmy6ZJPOe6vA0d/yhchS+dD8znuUpg=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "SpacePotato",
+                  "identity": "B41FCF161C4B971B",
+                  "website": "https://spacepotayto.carrd.co/",
+                  "security_contact": "",
+                  "details": "We have a secure and reliable validator setup that adheres to best practices. Uptime and rewards generation for you is our top priority!"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1l6kfy4xvy0a34fseyhvc6f6k8asukfdzjysdpk",
+                "validator_address": "cerberusvaloper1l6kfy4xvy0a34fseyhvc6f6k8asukfdz8462mg",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "9co5fpYI+XnV7DrJIr4CYs/qaTmUpF2pCV5mq66xeHg="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "f99c256be682968efe7c4c8a8c504955894c2090@143.198.101.54:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A8T1ancdw3DlORDlJZoz2ZDMMOWUw4Wf9X3uYnl1y662"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "kKQ2B6KUE4uDrGqci2B0tmGuLaLA2ZqsYtDRFC1xSc9WxWnLGA48b27YKI0ES1rmlQ3GPPnCwFxY/OtOZ0IcRg=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "jabbey",
+                  "identity": "FA260EE7A0113432",
+                  "website": "https://jabbey.io",
+                  "security_contact": "",
+                  "details": "just another dad in the cosmos"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus1xwazl8ftks4gn00y5x3c47auquc62ssuevxnnm",
+                "validator_address": "cerberusvaloper1xwazl8ftks4gn00y5x3c47auquc62ssuvav5f9",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "IKijn2UDX/4ozhKFHbFVdhb1gZFX1BESoLH/Z5rdUw8="
+                },
+                "value": {
+                  "denom": "ucrbrus",
+                  "amount": "4000000000000"
+                }
+              }
+            ],
+            "memo": "ffbade2af84ed0c42d418134465d14ee1f5e83cb@65.108.135.177:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AmyLTnelrZ0zgMx4bFl/n237JKlztLUkhPbHCq6uP/vw"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "1Ab3CGKNSNmn0nEIhrwTGALbHD40LSuDWn7AASDg+m4GYjSNumaLOe3ZdJZuysv1TNarLAMMvgayLO/hlKylyA=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Golden Ratio Staking",
+                  "identity": "1C32EF4035953E8B",
+                  "website": "https://twitter.com/GoldenStaking",
+                  "security_contact": "",
+                  "details": "Bare Metal Interchain Relayer and Validator. Giving back to community through staking! Weekly Giveaways powered by most beautiful number in the Cosmos!"
+                },
+                "commission": {
+                  "rate": "0.050000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.050000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "cerberus13uz8x0rgm950639yklqq5tnjh6gwfpfhft5r7g",
+                "validator_address": "cerberusvaloper13uz8x0rgm950639yklqq5tnjh6gwfpfhu67yyk",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "Y7wmh1efhm5pVOnULb91xWuJE1wVsge98mBK3mjzXpY="
+                },
+                "value": { "denom": "ucrbrus", "amount": "4000000000000" }
+              }
+            ],
+            "memo": "c2a307e37c94573a59c691b61408bdd71ec49a0f@65.108.121.239:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AwsPG1Eu4nLjLgf1cYMOjeSolrsEqi1fn56rTnOgipSi"
+                },
+                "mode_info": { "single": { "mode": "SIGN_MODE_DIRECT" } },
+                "sequence": "0"
+              }
+            ],
+            "fee": { "amount": [], "gas_limit": "200000", "payer": "", "granter": "" }
+          },
+          "signatures": [
+            "kPV/7UOplMc7yRWdmOozUrnogzyz/zXc+22VqaRpWHYPaX9jaUocAfD9yx85aU9y5/4AJ3VuOC/oK/RJzPYWtg=="
+          ]
+        }
+      ]
     },
     "gov": {
       "starting_proposal_id": "1",
@@ -88,14 +2009,14 @@
       "deposit_params": {
         "min_deposit": [
           {
-            "denom": "stake",
-            "amount": "10000000"
+            "denom": "ucrbrus",
+            "amount": "150000000000"
           }
         ],
-        "max_deposit_period": "172800s"
+        "max_deposit_period": "259200s"
       },
       "voting_params": {
-        "voting_period": "172800s"
+        "voting_period": "259200s"
       },
       "tally_params": {
         "quorum": "0.334000000000000000",
@@ -135,13 +2056,13 @@
     },
     "mint": {
       "minter": {
-        "inflation": "0.130000000000000000",
+        "inflation": "0.430000000000000000",
         "annual_provisions": "0.000000000000000000"
       },
       "params": {
-        "mint_denom": "stake",
-        "inflation_rate_change": "0.130000000000000000",
-        "inflation_max": "0.200000000000000000",
+        "mint_denom": "ucrbrus",
+        "inflation_rate_change": "0.050000000000000000",
+        "inflation_max": "0.430000000000000000",
         "inflation_min": "0.070000000000000000",
         "goal_bonded": "0.670000000000000000",
         "blocks_per_year": "6311520"
@@ -150,22 +2071,22 @@
     "params": null,
     "slashing": {
       "params": {
-        "signed_blocks_window": "100",
-        "min_signed_per_window": "0.500000000000000000",
+        "signed_blocks_window": "12000",
+        "min_signed_per_window": "0.025000000000000000",
         "downtime_jail_duration": "600s",
         "slash_fraction_double_sign": "0.050000000000000000",
-        "slash_fraction_downtime": "0.010000000000000000"
+        "slash_fraction_downtime": "0.001000000000000000"
       },
       "signing_infos": [],
       "missed_blocks": []
     },
     "staking": {
       "params": {
-        "unbonding_time": "1814400s",
+        "unbonding_time": "1212000s",
         "max_validators": 100,
         "max_entries": 7,
         "historical_entries": 10000,
-        "bond_denom": "stake"
+        "bond_denom": "ucrbrus"
       },
       "last_total_power": "0",
       "last_validator_powers": [],
