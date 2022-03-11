@@ -1,1 +1,61 @@
-{"body":{"messages":[{"@type":"/cosmos.staking.v1beta1.MsgCreateValidator","description":{"moniker":"Golden Ratio Staking","identity":"1C32EF4035953E8B","website":"https://twitter.com/GoldenStaking","security_contact":"","details":"Bare Metal Interchain Relayer and Validator. Giving back to community through staking! Weekly Giveaways powered by most beautiful number in the Cosmos!"},"commission":{"rate":"0.050000000000000000","max_rate":"0.200000000000000000","max_change_rate":"0.050000000000000000"},"min_self_delegation":"1","delegator_address":"cerberus13uz8x0rgm950639yklqq5tnjh6gwfpfhft5r7g","validator_address":"cerberusvaloper13uz8x0rgm950639yklqq5tnjh6gwfpfhu67yyk","pubkey":{"@type":"/cosmos.crypto.ed25519.PubKey","key":"Y7wmh1efhm5pVOnULb91xWuJE1wVsge98mBK3mjzXpY="},"value":{"denom":"ucrbrus","amount":"4000000000000"}}],"memo":"c2a307e37c94573a59c691b61408bdd71ec49a0f@65.108.121.239:26656","timeout_height":"0","extension_options":[],"non_critical_extension_options":[]},"auth_info":{"signer_infos":[{"public_key":{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"AwsPG1Eu4nLjLgf1cYMOjeSolrsEqi1fn56rTnOgipSi"},"mode_info":{"single":{"mode":"SIGN_MODE_DIRECT"}},"sequence":"0"}],"fee":{"amount":[],"gas_limit":"200000","payer":"","granter":""}},"signatures":["kPV/7UOplMc7yRWdmOozUrnogzyz/zXc+22VqaRpWHYPaX9jaUocAfD9yx85aU9y5/4AJ3VuOC/oK/RJzPYWtg=="]}
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+        "description": {
+          "moniker": "Golden Ratio Staking",
+          "identity": "1C32EF4035953E8B",
+          "website": "https://twitter.com/GoldenStaking",
+          "security_contact": "",
+          "details": "Bare Metal Interchain Relayer and Validator. Giving back to community through staking! Weekly Giveaways powered by most beautiful number in the Cosmos!"
+        },
+        "commission": {
+          "rate": "0.050000000000000000",
+          "max_rate": "0.200000000000000000",
+          "max_change_rate": "0.050000000000000000"
+        },
+        "min_self_delegation": "1",
+        "delegator_address": "cerberus13uz8x0rgm950639yklqq5tnjh6gwfpfhft5r7g",
+        "validator_address": "cerberusvaloper13uz8x0rgm950639yklqq5tnjh6gwfpfhu67yyk",
+        "pubkey": {
+          "@type": "/cosmos.crypto.ed25519.PubKey",
+          "key": "Y7wmh1efhm5pVOnULb91xWuJE1wVsge98mBK3mjzXpY="
+        },
+        "value": {
+          "denom": "ucrbrus",
+          "amount": "4000000000000"
+        }
+      }
+    ],
+    "memo": "c2a307e37c94573a59c691b61408bdd71ec49a0f@65.108.121.239:26656",
+    "timeout_height": "0",
+    "extension_options": [],
+    "non_critical_extension_options": []
+  }
+  "auth_info": {
+    "signer_infos": [
+      {
+        "public_key": {
+          "@type": "/cosmos.crypto.secp256k1.PubKey",
+          "key": "AwsPG1Eu4nLjLgf1cYMOjeSolrsEqi1fn56rTnOgipSi"
+        },
+        "mode_info": {
+          "single": {
+            "mode": "SIGN_MODE_DIRECT"
+          }
+        },
+        "sequence": "0"
+      }
+    ],
+    "fee": {
+      "amount": [],
+      "gas_limit": "200000",
+      "payer": "",
+      "granter": ""
+    }
+  },
+  "signatures": [
+    "kPV/7UOplMc7yRWdmOozUrnogzyz/zXc+22VqaRpWHYPaX9jaUocAfD9yx85aU9y5/4AJ3VuOC/oK/RJzPYWtg=="
+  ]
+}
